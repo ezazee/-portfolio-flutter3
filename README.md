@@ -8,7 +8,11 @@
 <p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
     <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+    <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
+
 
 ## Tentang Project
 Project iseng yang dikerjakan dengan resource YouTube & Kreatifitas diri sendiri, semoga bisa dikembangkan seiring berjalan nya waktu
